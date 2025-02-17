@@ -1,0 +1,2 @@
+# weeksix
+cloning of repository
